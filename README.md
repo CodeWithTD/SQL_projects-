@@ -20,13 +20,13 @@ Data Cleaning in SQL – to filter relevant job titles, salaries, and remote rol
 
 # The Analysis 
 Top Paying Jobs & Skills – Identified the highest-paying Data Analyst positions and their required skills
- ![top_paying_skills_chart](top_paying_skills_chart.png)
+ ![top_paying_skills_chart](images/top_paying_skills_chart.png)
  
 Top Paying Skills – Found skills with the highest average salary, focusing on remote-friendly jobs
-![top_paying_remote_skills_chart](top_paying_remote_skills_chart.png)
+![top_paying_remote_skills_chart](images/top_paying_remote_skills_chart.png)
 
 Most Optimal Skills – Combined salary and demand count to pinpoint the most valuable skills for long-term growth
-![most_optimal_skills_chart](most_optimal_skills_chart.png)
+![most_optimal_skills_chart](images/most_optimal_skills_chart.png)
 
 # What I Learned
 Top Paying Jobs & Skills – Identified the highest-paying Data Analyst positions and their required skills
